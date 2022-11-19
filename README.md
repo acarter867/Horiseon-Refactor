@@ -11,3 +11,6 @@ N/A
 
 ## License:
 Please refer to the LICENSE file of this repository.
+
+## Preview:
+<img src="assets/images/acarter867.github.io_Horiseon-Refactor_.png" alt="Webpage preview">
