@@ -22,7 +22,7 @@ body {
     font-size: 48px;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -30,7 +30,7 @@ body {
     font-size: 20px;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -54,7 +54,7 @@ p {
     background-size: cover;
     background-position: center;
 }
- /* Styling for "content" class */
+ /* Styling for "services" section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -65,7 +65,8 @@ p {
     margin-left: 25px;
 }
 
-.content {
+
+.services{
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -82,14 +83,15 @@ p {
     color: #ffffff;
 }
 
-.content img{
+.services img{
     max-height: 200px;
 }
 
-.content h2{
+.services h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 
 /* Styling for benifits panel */
 .benefits {
